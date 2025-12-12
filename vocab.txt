@@ -1,6 +1,6 @@
 Accredit	To officially recognize or approve. MEMORY: If someone is “accredited,” you can *trust* (cred) their authority.	The university is accredited by a national board. / The committee refused to accredit programs without sufficient evidence.
 Credential	A qualification that inspires trust. MEMORY: A credential proves you’re *credible*.	Her credentials made her a strong applicant. / The job posting required top-tier credentials.
-Credence	Belief or acceptance as true. MEMORY: Give credence → give *belief*.	The theory gained credence after new research. / The manager gave little credence to the rumor.
+credence	Meaning: belief in or acceptance of something as true. Memory: "Give credibility → give credence."	Example 1: The report lent credence to the hypothesis. Example 2: His confident tone gave credence to his argument.
 Credible	Believable; trustworthy. MEMORY: If it’s credible, you can *credit* it as true.	The witness’s story was credible. / The proposal lacked credible evidence.
 Credit	Praise, recognition, or trust. MEMORY: If you “give credit,” you give *belief*.	He won credit for his innovative work. / The success is credited to teamwork.
 Creditable	Deserving praise but not outstanding. MEMORY: Not “credit-worthy,” but “credit-able.”	It was a creditable performance. / The team’s result was creditable despite challenges.
@@ -25,3 +25,4 @@ Creditive	Disposed to believe; having belief. MEMORY: Cred + itive → inclined 
 Creedsman	One who adheres strongly to a creed. MEMORY: Creed + man → believer.	The creedsman defended tradition. / Political creedsmen debated reforms.
 Increditability	Quality of being unbelievable. MEMORY: Not credible → not believable.	The increditability of the rumor was obvious. / Reporters questioned its increditability.
 Accreditation	Official approval or certification. MEMORY: Accreditation gives *trust* formally.	The school sought accreditation. / Accreditation ensures quality standards.
+miscredit	Meaning: to attribute something to the wrong person. Memory: Mis-credit → give credit incorrectly.	Example 1: The invention was miscredited to a later scientist. Example 2: The quote is often miscredited online.
